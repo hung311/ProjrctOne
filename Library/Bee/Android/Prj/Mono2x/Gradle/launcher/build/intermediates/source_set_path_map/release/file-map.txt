@@ -1,0 +1,9 @@
+com.Slime.ProjectOne.launcher-pngs-0 D:\Chuananh\ProjectOne\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.Slime.ProjectOne.launcher-resValues-1 D:\Chuananh\ProjectOne\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.Slime.ProjectOne.launcher-rs-2 D:\Chuananh\ProjectOne\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.Slime.ProjectOne.launcher-mergeReleaseResources-3 D:\Chuananh\ProjectOne\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.Slime.ProjectOne.launcher-mergeReleaseResources-4 D:\Chuananh\ProjectOne\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.Slime.ProjectOne.launcher-merged_res-5 D:\Chuananh\ProjectOne\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.Slime.ProjectOne.launcher-main-6 D:\Chuananh\ProjectOne\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.Slime.ProjectOne.launcher-release-7 D:\Chuananh\ProjectOne\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.Slime.ProjectOne.launcher-packaged_res-8 D:\Chuananh\ProjectOne\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release

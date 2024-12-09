@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Chuananh\\ProjectOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EDAA3E-4EEE-BED8-A8CD-8F4F790A5DCB}|Assembly-CSharp.csproj|d:\\chuananh\\projectone\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8EDAA3E-4EEE-BED8-A8CD-8F4F790A5DCB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EDAA3E-4EEE-BED8-A8CD-8F4F790A5DCB}|Assembly-CSharp.csproj|D:\\Chuananh\\ProjectOne\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8EDAA3E-4EEE-BED8-A8CD-8F4F790A5DCB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EDAA3E-4EEE-BED8-A8CD-8F4F790A5DCB}|Assembly-CSharp.csproj|D:\\Chuananh\\ProjectOne\\assets\\script\\convertscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8EDAA3E-4EEE-BED8-A8CD-8F4F790A5DCB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\convertscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EDAA3E-4EEE-BED8-A8CD-8F4F790A5DCB}|Assembly-CSharp.csproj|D:\\Chuananh\\ProjectOne\\assets\\script\\textscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8EDAA3E-4EEE-BED8-A8CD-8F4F790A5DCB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\textscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EDAA3E-4EEE-BED8-A8CD-8F4F790A5DCB}|Assembly-CSharp.csproj|D:\\Chuananh\\ProjectOne\\assets\\script\\randomspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8EDAA3E-4EEE-BED8-A8CD-8F4F790A5DCB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\randomspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EDAA3E-4EEE-BED8-A8CD-8F4F790A5DCB}|Assembly-CSharp.csproj|D:\\Chuananh\\ProjectOne\\assets\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8EDAA3E-4EEE-BED8-A8CD-8F4F790A5DCB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EDAA3E-4EEE-BED8-A8CD-8F4F790A5DCB}|Assembly-CSharp.csproj|D:\\Chuananh\\ProjectOne\\assets\\script\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8EDAA3E-4EEE-BED8-A8CD-8F4F790A5DCB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EDAA3E-4EEE-BED8-A8CD-8F4F790A5DCB}|Assembly-CSharp.csproj|D:\\Chuananh\\ProjectOne\\assets\\script\\volumesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8EDAA3E-4EEE-BED8-A8CD-8F4F790A5DCB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\volumesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextScore.cs",
+              "DocumentMoniker": "D:\\Chuananh\\ProjectOne\\Assets\\Script\\TextScore.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TextScore.cs",
+              "ToolTip": "D:\\Chuananh\\ProjectOne\\Assets\\Script\\TextScore.cs",
+              "RelativeToolTip": "Assets\\Script\\TextScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:34:27.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RandomSpawner.cs",
+              "DocumentMoniker": "D:\\Chuananh\\ProjectOne\\Assets\\Script\\RandomSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RandomSpawner.cs",
+              "ToolTip": "D:\\Chuananh\\ProjectOne\\Assets\\Script\\RandomSpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\RandomSpawner.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:21:31.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Chuananh\\ProjectOne\\Assets\\Script\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
+              "ToolTip": "D:\\Chuananh\\ProjectOne\\Assets\\Script\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAswIoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:41:16.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConvertScene.cs",
+              "DocumentMoniker": "D:\\Chuananh\\ProjectOne\\Assets\\Script\\ConvertScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ConvertScene.cs",
+              "ToolTip": "D:\\Chuananh\\ProjectOne\\Assets\\Script\\ConvertScene.cs",
+              "RelativeToolTip": "Assets\\Script\\ConvertScene.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:39:57.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Chuananh\\ProjectOne\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "D:\\Chuananh\\ProjectOne\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:57:53.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VolumeSetting.cs",
+              "DocumentMoniker": "D:\\Chuananh\\ProjectOne\\Assets\\Script\\VolumeSetting.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\VolumeSetting.cs",
+              "ToolTip": "D:\\Chuananh\\ProjectOne\\Assets\\Script\\VolumeSetting.cs",
+              "RelativeToolTip": "Assets\\Script\\VolumeSetting.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:20:35.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Chuananh\\ProjectOne\\Assets\\Script\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AudioManager.cs",
+              "ToolTip": "D:\\Chuananh\\ProjectOne\\Assets\\Script\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Script\\AudioManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:39:05.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Chuananh\\ProjectOne\\Assets\\Script\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MainMenu.cs",
+              "ToolTip": "D:\\Chuananh\\ProjectOne\\Assets\\Script\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\MainMenu.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwCsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:25:41.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
